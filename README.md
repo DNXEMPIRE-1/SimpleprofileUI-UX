@@ -20,6 +20,3 @@ Welcome to SimpleprofileUI-UX! This project is a portfolio profile designed to s
 
 ## Current Progress
 
-- [Briefly describe the current state of the portfolio]
-- [Mention any key features that have been implemented]
-- [Outline upcoming features or improvements]
